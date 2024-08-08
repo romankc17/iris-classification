@@ -1,0 +1,3 @@
+[console_scripts]
+make_prediction = src.predict:predict
+train_model = src.train_model:main

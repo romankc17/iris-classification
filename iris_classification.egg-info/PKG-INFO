@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: iris_classification
+Version: 0.1
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: jupyter
